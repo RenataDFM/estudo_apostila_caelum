@@ -34,6 +34,8 @@ public class Funcionario {
 		System.out.println("RG: " + rg);
 		System.out.println("Salário anual: " + calculaGanhoAnual());
 
-		System.out.println("Data de entrada: " + this.dataDeEntrada.formatada());
+		//System.out.println("Data de entrada: " + this.dataDeEntrada.formatada());
 	}
+	
+	
 }
